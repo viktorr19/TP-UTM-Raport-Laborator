@@ -1,0 +1,8 @@
+123456
+admin
+parola
+password
+student
+laborator6
+steganografie
+secret

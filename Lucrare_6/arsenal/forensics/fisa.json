@@ -1,0 +1,22 @@
+{
+  "strat": "base64 -> hex -> url",
+  "rezultat": "FLAG{straturi_base64_hex_url}",
+  "format": "utf-8",
+  "pasi": [
+    {
+      "strat": "base64",
+      "rezultat": "464c414725374273747261747572695f6261736536345f6865785f75726c253744",
+      "format": "utf-8"
+    },
+    {
+      "strat": "hex",
+      "rezultat": "FLAG%7Bstraturi_base64_hex_url%7D",
+      "format": "utf-8"
+    },
+    {
+      "strat": "url",
+      "rezultat": "FLAG{straturi_base64_hex_url}",
+      "format": "utf-8"
+    }
+  ]
+}
