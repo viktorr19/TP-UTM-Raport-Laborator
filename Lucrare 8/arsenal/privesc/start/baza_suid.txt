@@ -1,9 +1,0 @@
-/usr/bin/passwd
-/usr/bin/sudo
-/usr/bin/chsh
-/usr/bin/chfn
-/usr/bin/newgrp
-/usr/bin/gpasswd
-/bin/mount
-/bin/umount
-/bin/su

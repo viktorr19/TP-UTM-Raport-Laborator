@@ -1,3 +1,0 @@
-ana : (ALL) NOPASSWD: /usr/bin/vim.basic
-ana : (ALL) /usr/bin/apt
-www-data : (root) NOPASSWD: /usr/bin/find
